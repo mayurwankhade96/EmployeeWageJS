@@ -1,1 +1,3 @@
 # EmployeeWageJS
+
+## Employee Wage Problem using JavaScript...
